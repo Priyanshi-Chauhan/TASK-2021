@@ -2,11 +2,10 @@
 
 This repository containes all over analysis of the results shown on MNIST dataset through random initialisation as well as pretrained model evaluation.
 TASK 2-
-Point 1 has been in the jupyter notebook named Task2Part1.ipynb
-Part 1 dataset in .npy file is in the folder named
-Point 2 has been in the jupyter notebook named Task2Part2.ipynb
-Part 2
-Point 3 has been in the jupyter notebook named Task2Part3.ipynb and Task3LastPart.ipynb
+Point 1 has been in the folder named Task2Part1 with jupyter notebook named Task2Part1.ipynb and images and labels in .npy files.
+Point 2 has been in the folder named Task2Part2 with jupyter notebook named Task2Part2.ipynb and images and labels.
+
+Point 3 has been in the folder named Task2Part2 with jupyter notebook named Task2Part3.ipynb and Task3LastPart.ipynb
 
 ExperimentLog.ipynb contains the snapshot of the processes that worked and that does not worked.
 Pre-Requisites

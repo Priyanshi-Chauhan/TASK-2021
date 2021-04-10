@@ -1,0 +1,6 @@
+Python 3.6
+NumPy
+Pandas
+Matplotlib
+Tensorflow
+Keras
